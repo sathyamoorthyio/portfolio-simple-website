@@ -15,7 +15,7 @@ Fully responsive design
 Beginner-friendly code structure
 
 🔗 Visit My Portfolio
-Click here to view the live website[Link]
+Click here to view the live website[Link  https://sathyamoorthyio.github.io/portfolio-simple-website/]
 
 This project reflects my foundational skills in front-end development and serves as a personal introduction on the web.
 
